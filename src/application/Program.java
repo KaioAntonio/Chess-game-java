@@ -18,8 +18,6 @@ public class Program {
 		
 		while(true) {
 			try {
-				
-			
 			UI.clearScreen();
 			UI.printBoard(chessMatch.getPieces());
 			System.out.println();
